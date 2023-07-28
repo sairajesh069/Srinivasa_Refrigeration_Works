@@ -1,0 +1,200 @@
+.navbar {
+    background-color: #051120;
+}
+
+.logo-img {
+    height: 80px;
+    width: 180px;
+    margin-left: 20px;
+}
+
+#navlink1 {
+    color: cornsilk;
+    font-weight: bold;
+    font-family: roboto;
+    margin-right: 20px;
+}
+
+#navlink2 {
+    color: cornsilk;
+    font-weight: bold;
+    font-family: roboto;
+    margin-right: 20px;
+}
+
+#navlink3 {
+    color: cornsilk;
+    font-weight: bold;
+    font-family: roboto;
+    margin-right: 20px;
+}
+
+#navlink4 {
+    color: cornsilk;
+    font-weight: bold;
+    font-family: roboto;
+    margin-right: 20px;
+}
+
+.home-background-img {
+    background-image: url("bg-image.jfif");
+    background-size: cover;
+    height: 95vh;
+    width: auto;
+}
+
+.column-padding {
+    padding: 0px;
+}
+
+.workshop-name {
+    font-family: ui-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 65px;
+    color: #3d4169d9;
+    text-align: center;
+}
+
+.buttons {
+    color: #3c4870fa;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.sub-heading {
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
+
+.about-section-container {
+    background-color: #051120;
+}
+
+.about-section {
+    background-color: white;
+    text-align: justify;
+    font-size: 20px;
+    font-family: ui-serif;
+    padding: 45px;
+    margin: 50px;
+}
+
+.carousel-heading {
+    text-align: center;
+    font-family: ui-serif;
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.carousel-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+}
+
+.carousel-inner {
+    border-radius: 15px;
+}
+
+.carousel-section-image {
+    height: 450px;
+}
+
+.services-section-background {
+    background-color: #040716;
+}
+
+.services-heading {
+    text-align: center;
+    text-decoration: underline;
+    font-family: ui-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+}
+
+.services-sub-heading {
+    text-align: center;
+    text-decoration: underline;
+    font-family: ui-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+
+.services-section-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px;
+    padding: 20px;
+}
+
+.services-section-sub-text {
+    text-align: center;
+    font-family: ui-serif;
+    font-weight: initial;
+    font-size: 22px;
+    color: white;
+}
+
+.contact-section-background {
+    background-color: whitesmoke;
+}
+
+.contact-heading {
+    text-align: center;
+    text-decoration: underline;
+    font-family: ui-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #051120;
+    padding: 20px;
+}
+
+.owner-info-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 30px;
+}
+
+.owner-name {
+    color: #051120;
+    font-family: ui-serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.owner-image {
+    height: 175px;
+    width: 175px;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+.contact-section-sub-text {
+    text-align: center;
+    font-family: ui-serif;
+    font-weight: initial;
+    font-size: 18px;
+    color: black;
+    margin: auto;
+
+}
+
+.buttons {
+    border-radius: 10px;
+}
