@@ -1,0 +1,181 @@
+.navbar,
+.about-section-container {
+    background-color: #051120;
+}
+
+.logo-img {
+    height: 80px;
+    width: 180px;
+    margin-left: 20px;
+}
+
+#navlink1,
+#navlink2,
+#navlink3,
+#navlink4 {
+    color: cornsilk;
+    font-weight: bold;
+    font-family: roboto;
+    margin-right: 20px;
+}
+
+.home-background-img {
+    background-image: url("bg-image-01.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+}
+
+.column-padding {
+    padding: 0px;
+}
+
+.home-info {
+    text-align: center;
+    font-family: ui-serif;
+    font-style: italic;
+    font-weight: bolder;
+    color: whitesmoke;
+}
+
+.welcome-text {
+    font-size: 35px;
+}
+
+.repair-text {
+    font-size: 30px;
+}
+
+.book-repair-button {
+    color: white;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.about-sub-heading {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.about-section {
+    background-color: white;
+    text-align: center;
+    font-size: 18px;
+    font-family: ui-serif;
+    padding: 35px;
+    margin: 40px;
+    border-radius: 25px;
+}
+
+.carousel-heading {
+    text-align: center;
+    font-family: ui-serif;
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 50px;
+}
+
+.carousel-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+}
+
+.carousel-inner {
+    border-radius: 15px;
+}
+
+.carousel-section-image {
+    height: 450px;
+}
+
+.services-section-background {
+    background-color: #040716;
+}
+
+.services-heading {
+    text-align: center;
+    text-decoration: underline;
+    font-family: ui-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+}
+
+.services-sub-heading {
+    text-align: center;
+    text-decoration: underline;
+    font-family: ui-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+
+.services-section-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.services-section-sub-text {
+    text-align: center;
+    font-family: ui-serif;
+    font-weight: initial;
+    font-size: 22px;
+    color: white;
+}
+
+.contact-background {
+    background-color: whitesmoke;
+}
+
+.contact-heading {
+    text-align: center;
+    padding: 20px 20px 0px 20px;
+}
+
+.contact-button-info {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 16px;
+    text-align: center;
+    width: 20vh;
+    height: 15vh;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 25px;
+}
+
+.contact-button {
+    border: none;
+    font-size: 25px;
+    background-color: transparent;
+}
+
+.maps-button {
+    color:#007bff;
+}
+
+.phone-button {
+    color:#28a745;
+}
+
+.whatsapp-button {
+    color:#25d366;
+}
+
+.mail-button {
+    color:#dc3545;
+}
