@@ -62,7 +62,8 @@
 .about-section {
     background-color: white;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
+    align-content: center;
     font-family: ui-serif;
     padding: 35px;
     margin: 40px;
